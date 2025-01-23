@@ -21,4 +21,8 @@ These page guides a customers with their choices of products with prices in whic
 This page is located at the About section in which the Team members are being displayed so that the customers will know the staffs of the cafe.  
 
 ![contact IMG](https://github.com/gelien0901/Cozycup_Linas_Vasquez/blob/main/contact.png)  
-This is for the informations about the cafe for the inquiries of the customers to the cafe, some informations such as email address, cellphone number, facebook, instagram and twitter accounts.
+This is for the informations about the cafe for the inquiries of the customers to the cafe, some informations such as email address, cellphone number, facebook, instagram and twitter accounts.  
+
+
+
+## About the Authors
