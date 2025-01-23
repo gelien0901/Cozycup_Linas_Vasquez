@@ -32,4 +32,4 @@ This is for the informations about the cafe for the inquiries of the customers t
 **Name:** Jhogelien Bescano Linas  
 **Email:** 201980292@psu.palawan.edu.ph  
 
-[<img src="facebook-icon.png" width="30px" height= "30px">](https://www.facebook.com/neilegohj.sanil/) [<img src="github-icon.jpg" width="30px" height= "30px">](https://github.com/gelien0901)
+[<img src="Facebook_black.png" width="50px" height= "50px">](https://www.facebook.com/neilegohj.sanil/) [<img src="Github_black.png" width="50px" height= "50px">](https://github.com/gelien0901)
