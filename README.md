@@ -9,3 +9,16 @@
 * Team Members Profile
 * Customer loyalty Program
 * Registration Forms
+
+## Screen Captures  
+![Homepage IMG](https://github.com/gelien0901/Cozycup_Linas_Vasquez/blob/main/homepage.png)  
+The customers will see the default design of the website in which the Feature products or the high-selling products of the cafe are being displayed.  
+
+![Menus IMG](https://github.com/gelien0901/Cozycup_Linas_Vasquez/blob/main/Menus.png)  
+These page guides a customers with their choices of products with prices in which the different kind of coffee and pastries in Coffee menu and Pasty menu are being displayed.  
+
+![member IMG](https://github.com/gelien0901/Cozycup_Linas_Vasquez/blob/main/member.png)  
+This page is located at the About section in which the Team members are being displayed so that the customers will know the staffs of the cafe.  
+
+![contact IMG](https://github.com/gelien0901/Cozycup_Linas_Vasquez/blob/main/contact.png)  
+This is for the informations about the cafe for the inquiries of the customers to the cafe, some informations such as email address, cellphone number, facebook, instagram and twitter accounts.
