@@ -26,4 +26,8 @@ This is for the informations about the cafe for the inquiries of the customers t
 
 
 ## About the Authors  
-<img src="https://github.com/gelien0901/Cozycup_Linas_Vasquez/blob/main/jhel.jpg" width="150" style="border-radius: 50%">
+<img src="https://github.com/gelien0901/Cozycup_Linas_Vasquez/blob/main/jhel.jpg" width="150" style="border-radius: 50%">  
+
+
+**Name:** Jhogelien Bescano Linas  
+**Email:** 201980292@psu.palawan.edu.ph
