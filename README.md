@@ -30,6 +30,11 @@ This is for the informations about the cafe for the inquiries of the customers t
 
 
 **Name:** Jhogelien Bescano Linas  
-**Email:** 201980292@psu.palawan.edu.ph  
+**Email:** 201980292@psu.palawan.edu.ph
+**Name:** Charlene H. Vasquez 
+**Email:** 202180273@psu.palawan.edu.ph
+
 
 [<img src="Facebook_black.png" width="50px" height= "50px">](https://www.facebook.com/neilegohj.sanil/) [<img src="Github_black.png" width="50px" height= "50px">](https://github.com/gelien0901)
+[<img src="Facebook_black.png" width="50px" height= "50px">](https://www.facebook.com/charlene.vasquez.908/) [<img src="Github_black.png" width="50px" height= "50px">](https://github.com/CharleneV-22)
+
