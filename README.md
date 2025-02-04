@@ -32,6 +32,7 @@ This is for the informations about the cafe for the inquiries of the customers t
 **Name:** Jhogelien Bescano Linas  
 **Email:** 201980292@psu.palawan.edu.ph
 
+
 **Name:** Charlene H. Vasquez 
 **Email:** 202180273@psu.palawan.edu.ph
 
